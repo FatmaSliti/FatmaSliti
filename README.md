@@ -6,7 +6,7 @@
 
 💞️ I'm looking to collaborate on anything fun.
 
-🏎️ In my free time, you can find me enjoying Formula 1 racing, exploring new places, and savoring delicious meals while watching great movies with amazing company.
+🏎️ In my free time, you can find me enjoying walks, going to cafés, meeting friends, and watching drol films. 🚶‍♂️☕👫🎬😂
 
 ---
 ### 📫 How to reach me:
