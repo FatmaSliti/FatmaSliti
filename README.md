@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Fatma Sliti 
 
-🎨 Crafting code and creativity, I'm a self-taught Frontend Developer with a lifelong love for design. Notebook cover artist since childhood, turning ideas into pixels! 🚀
+🚀 Frontend Developer, where pixels meet passion. From notebooks to the web, I craft magic with code.
 
 🌱 I'm currently learning to be Fullstack developer.
 
