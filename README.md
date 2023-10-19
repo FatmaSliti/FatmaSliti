@@ -37,12 +37,11 @@
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg"> <img src="https://github.com/devicons/devicon/raw/master/icons/codepen/codepen-original-wordmark.svg" title="Codepen" alt="Codepen" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"> <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"> <img src="https://github.com/devicons/devicon/raw/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg"> <img src="https://github.com/devicons/devicon/raw/master/icons/slack/slack-original-wordmark.svg" title="slack" alt="slack" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" title="VScode" alt="VScode" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
 </div>
 
 ---
 
-![Fatma’s GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkRobertson67&show_icons=true&theme=blue-green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkRobertson67&layout=donut&show_icons=true&theme=blue-green)
+![Fatma’s GitHub stats](https://github-readme-stats.vercel.app/api?username=FatmaSliti&show_icons=true&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatmaSliti&layout=donut&show_icons=true&theme=blue-green)
 </p>
