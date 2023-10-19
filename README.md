@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Fatma Sliti 
 
-👀 I'm interested in coding financial solutions in FinTech and Web Apps.
+🎨 Crafting code and creativity, I'm a self-taught Frontend Developer with a lifelong love for design. Notebook cover artist since childhood, turning ideas into pixels! 🚀
 
 🌱 I'm currently learning to be Fullstack developer.
 
