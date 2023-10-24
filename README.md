@@ -17,7 +17,7 @@
 
 ---
 ### Profiles:
-- Codewars: [![Codewars Badge](https://www.codewars.com/users/Goldsuccess167/badges/small)](https://www.codewars.com/users/FatmaSliti)
+- Codewars: [![Codewars Badge](https://https://www.codewars.com/users/FatmaSliti/badges/large)](https://www.codewars.com/users/FatmaSliti)
 <!-- -- Codewars: [![Codewars Badge](https://www.codewars.com/users/Goldsuccess167/badges/small)](https://www.codewars.com/users/Goldsuccess167)-->
 - Leetcode: <a href="https://leetcode.com/Fatma-sliti/"><img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" width="100" alt="Leetcode Badge"></a> 
 
