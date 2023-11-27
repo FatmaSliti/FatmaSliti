@@ -15,14 +15,14 @@
 - [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:fatmasliti289@gmail.com)
 
 
----
+<!-- ---
 <!-- ### Profiles:
 - Codewars: [![Codewars Badge](https://www.codewars.com/users/FatmaSliti/badges/small)](https://www.codewars.com/users/FatmaSliti)
 <!-- -- Codewars: [![Codewars Badge](https://www.codewars.com/users/Goldsuccess167/badges/small)](https://www.codewars.com/users/Goldsuccess167)-->
 <!-- - Leetcode: <a href="https://leetcode.com/Fatma-sliti/"><img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" width="100" alt="Leetcode Badge"></a> 
 - Hackerrank:  <a href="https://www.hackerrank.com/profile/fatmasliti289"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="50" height="30" alt="Leetcode Badge"></a> -->
 
----
+<!-- --- -->
 ### :hammer_and_wrench: Languages and Tools :
 
 <div dir="auto">
