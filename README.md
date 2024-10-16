@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Fatma Sliti 
 
-🚀 Self-taught Frontend Developer, where pixels meet passion. From notebooks to the web, I craft magic with code.
+🚀 Self-taught Fullstack Developer, where pixels meet passion. From notebooks to the web, I craft magic with code.
 
-🌱 I'm in the process of honing my skills to become a Fullstack developer.
+🌱 I'm in the process of honing my skills to become a better developer.
 
 💞️ I'm looking to collaborate on anything fun.
 
