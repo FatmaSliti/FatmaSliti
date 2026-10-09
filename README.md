@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Fatma Sliti 
 
-🚀 Self-taught Fullstack Developer, where pixels meet passion. From notebooks to the web, I craft magic with code.
+🚀 DevOps enthusiast with a background in full-stack web development. From crafting web experiences to automating deployments, I'm exploring the world where code meets infrastructure.
 
-🌱 I'm in the process of honing my skills to become a better developer.
+🌱 Always learning, experimenting with cloud technologies, CI/CD, and automation to build, deploy, and scale applications more efficiently.
 
 💞️ I'm looking to collaborate on anything fun.
 
